@@ -1,4 +1,3 @@
-```markdown
 # 🚀 VIKRANT - Advanced Multi-Threaded UDP Traffic Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -769,6 +768,5 @@ VIKRANT is designed for network testing in controlled environments:
 **Built with ❤️ for network professionals everywhere**
 
 [Report Bug](https://github.com/yourusername/vikrant-udp-traffic-generator/issues) · [Request Feature](https://github.com/yourusername/vikrant-udp-traffic-generator/issues) · [View Documentation](https://github.com/yourusername/vikrant-udp-traffic-generator/wiki) · [Star on GitHub](https://github.com/yourusername/vikrant-udp-traffic-generator)
-```
 
 This complete README.md file is ready to be uploaded to your GitHub repository. It includes all sections with professional formatting, emojis, badges, tables, code blocks, and comprehensive documentation about your VIKRANT UDP traffic generator.
