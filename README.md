@@ -716,7 +716,7 @@ SOFTWARE.
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/vikrant-udp-traffic-generator/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/vikrant-udp-traffic-generator/wiki)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/vikrant-udp-traffic-generator/discussions)
-- **Email**: support@vikrant.io
+- **Email**: vikrantranahome@gmail.com
 
 ---
 
